@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">presenter</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+    <string name="title_activity_pin_security">PinSecurityActivity</string>
+</resources>
